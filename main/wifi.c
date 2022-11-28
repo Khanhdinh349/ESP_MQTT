@@ -16,8 +16,8 @@
 
 static EventGroupHandle_t s_wifi_event_group;
 
-#define wifi_ssid "NhatHoang"
-#define wifi_password "01217818548"
+#define wifi_ssid ""
+#define wifi_password ""
 
 #define WIFI_CONNECTED_BIT BIT0
 #define WIFI_FAIL_BIT      BIT1
